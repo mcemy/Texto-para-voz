@@ -10,7 +10,7 @@ Sistema web desenvolvido em **Laravel 11** que converte texto em áudio utilizan
 
 ## 📋 Sobre o Projeto
 
-Este projeto foi desenvolvido como parte de um **processo seletivo para estágio em desenvolvimento PHP**. O sistema permite que usuários digitem textos e os convertam em áudio em diversos idiomas, utilizando síntese de voz de alta qualidade.
+Este projeto permite que usuários digitem textos e os convertam em áudio em diversos idiomas, utilizando síntese de voz de alta qualidade.
 
 ### ✨ Funcionalidades
 
@@ -199,15 +199,6 @@ print_r($result);
 Este projeto está sob a licença MIT.
 
 ---
-
-## 👨‍💻 Desenvolvedor
-
-**Emile** (mcemy)
-
-- GitHub: [@mcemy](https://github.com/mcemy)
-
----
-
 ## 🙏 Agradecimentos
 
 - **Laravel** - Framework PHP incrível
