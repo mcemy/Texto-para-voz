@@ -207,5 +207,3 @@ Este projeto está sob a licença MIT.
 - **Font Awesome** - Biblioteca de ícones
 
 ---
-
-**Desenvolvido com ❤️ e Laravel**
