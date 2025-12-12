@@ -199,11 +199,3 @@ print_r($result);
 Este projeto está sob a licença MIT.
 
 ---
-## 🙏 Agradecimentos
-
-- **Laravel** - Framework PHP incrível
-- **VoiceRSS** - API de conversão texto-para-voz
-- **Bootstrap** - Framework CSS
-- **Font Awesome** - Biblioteca de ícones
-
----
